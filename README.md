@@ -1,5 +1,6 @@
 # cryptopals-c
-My solutions to the matasano cryptopals challenges (written in C).
+My (unofficial) solutions to the [matasano cryptopals challenges](http://cryptopals.com/)
+(written in C).
 
 ## SSL libary
 
